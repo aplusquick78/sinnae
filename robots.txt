@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinnae.8222quick.com/sitemap.xml
+
+
+
